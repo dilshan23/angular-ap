@@ -1,0 +1,5 @@
+
+
+
+apt install npm
+npm -g install @angular/cli@10.20
